@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hello World</title>
+    <link>https://tmacshamgod.github.io/posts/</link>
+    <description>Recent content in Posts on Hello World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2018 &amp;copy; Jeff Zhang</copyright>
+    <lastBuildDate>Sun, 29 Apr 2018 22:43:19 -0400</lastBuildDate>
+    
+	<atom:link href="https://tmacshamgod.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Demystify Token Based Authentication</title>
+      <link>https://tmacshamgod.github.io/posts/demystify_token_based_authentication/</link>
+      <pubDate>Sun, 29 Apr 2018 22:43:19 -0400</pubDate>
+      
+      <guid>https://tmacshamgod.github.io/posts/demystify_token_based_authentication/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
